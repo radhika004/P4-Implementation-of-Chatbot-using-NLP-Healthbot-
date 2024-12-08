@@ -39,7 +39,7 @@ Here is the **`README.md`** in **GitHub** markdown format using paragraph tags:
 <p>Clone the repository to your local machine.</p>
 
 ```bash
-git clone https://github.com/your-username/HealthBot.git
+git clone https://github.com/radhika004/P4-Implementation-of-Chatbot-using-NLP-Healthbot-/tree/main
 cd HealthBot
 ```
 
